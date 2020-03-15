@@ -1,2 +1,2 @@
-# Bhanu-Prakash-Bhimarati-Epam-Task-Collections
+#Dinesh Teja-Epam-Task-Collections
 # Epam-Task-6-Collections
